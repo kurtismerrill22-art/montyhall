@@ -1,0 +1,18 @@
+Package: montyhall
+Title: Simulation of the Monty Hall Problem
+Version: 0.0.0.9000
+Authors@R:
+	person(
+		given = "Kurtis",
+		family = "Merrill",
+		role = c("aut", "cre"),
+		email = "kmerril8@asu.edu"
+	)
+Description: Functions for simulating the Monty Hall
+	problem and comparing the outcomes of staying
+	with an initial door choice or switching doors.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
